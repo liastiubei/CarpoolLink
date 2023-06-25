@@ -1,0 +1,39 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.CarpoolingApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="RYZZE_DATE_PICKER">
+        <item name="android:textColorPrimary">#ffffff</item>
+        <item name="android:colorControlNormal">#ffffff</item>
+        <item name="colorAccent">#ffffff</item>
+    </style>
+
+    <style name="CustomAutocompleteTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorControlNormal">#757575</item>
+        <item name="colorControlActivated">#FF5722</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/white</item>
+    </style>
+
+    <style name="CustomAutoCompleteTextViewStyle" parent="Widget.AppCompat.AutoCompleteTextView">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="CustomAutocompleteThemeWithTextColor" parent="CustomAutocompleteTheme">
+        <item name="autoCompleteTextViewStyle">@style/CustomAutoCompleteTextViewStyle</item>
+    </style>
+
+
+
+</resources>

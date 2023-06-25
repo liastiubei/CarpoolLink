@@ -1,0 +1,59 @@
+Terms and Conditions for Android App - CarpoolLink
+
+Effective Date: June 10, 2023
+
+Please read these Terms and Conditions ("Terms") carefully before using the CarpoolLink Android application ("the App"). By accessing or using the App, you agree to be bound by these Terms. If you do not agree with any part of these Terms, you may not use the App.
+
+1. Definitions
+
+1.1. "App" refers to the CarpoolLink Android application, which enables users to offer and find ridesharing opportunities.
+1.2. "User" refers to any individual who accesses or uses the App.
+1.3. "Rider" refers to a User seeking a ride.
+1.4. "Driver" refers to a User offering a ride.
+
+2. Use of the App
+
+2.1. The App allows Users to connect and arrange ridesharing opportunities. Users may create profiles, post ride requests, offer rides, and communicate with each other through the App.
+2.2. The App facilitates the exchange of contact information between Riders and Drivers but does not take any responsibility for the accuracy, reliability, or safety of the individuals using the App.
+2.3. Users must be at least 18 years old to use the App.
+2.4. Users are responsible for providing accurate and up-to-date information on their profiles, including their name, contact information, and vehicle details (if applicable).
+2.5. Users agree not to use the App for any illegal, unauthorized, or malicious activities.
+
+3. User Obligations
+
+3.1. Users understand and agree that they are solely responsible for any agreements, transactions, or interactions between Riders and Drivers.
+3.2. Users acknowledge that the App does not provide any transportation services and that all arrangements made through the App are solely between the Rider and the Driver.
+3.3. Drivers agree to provide safe and reliable transportation services to Riders and to adhere to all applicable laws and regulations regarding driving and vehicle safety.
+3.4. Riders agree to act responsibly, treat Drivers with respect, and follow any rules or instructions provided by the Driver during the ride.
+
+4. Pricing and Payments
+
+4.1. The App allows Users to set their own prices for rides. The pricing is entirely determined by the Users, and the App does not take any percentage or fees from the transaction.
+4.2. Users understand and agree that any financial transactions between Riders and Drivers are independent of the App, and the App is not responsible for any payments, refunds, disputes, or liabilities arising from such transactions.
+
+5. Limitation of Liability
+
+5.1. The App is provided on an "as-is" and "as available" basis. Users acknowledge and agree that the use of the App is at their own risk.
+5.2. The App does not guarantee the availability, accuracy, or reliability of any information posted by Users.
+5.3. In no event shall the App, its affiliates, or its employees be liable for any direct, indirect, incidental, special, consequential, or exemplary damages arising out of or in connection with the use of the App.
+
+6. Intellectual Property
+
+6.1. All intellectual property rights, including copyrights, trademarks, and any other proprietary rights, associated with the App and its content, belong to CarpoolLink.
+6.2. Users agree not to use, copy, modify, distribute, or reproduce any content from the App without obtaining prior written permission from CarpoolLink.
+
+7. Termination
+
+7.1. CarpoolLink reserves the right to terminate or suspend any User's access to the App, at its sole discretion, without prior notice or liability.
+7.2. Users may terminate their use of the App at any time by deleting their account and uninstalling the App from their device.
+
+8. Changes to the Terms
+
+8.1. CarpoolLink reserves the right to modify or update these Terms at any time, without prior notice. It is the responsibility of the Users to review the Terms periodically for any changes.
+8.2. By continuing to use the App after the Terms have been modified, Users agree to be bound by the updated Terms.
+
+9. Governing Law and Jurisdiction
+
+9.1. These Terms shall be governed by and construed in accordance with the laws of the country in which the App is used, without regard to its conflict of laws principles.
+9.2. Any dispute arising out of or in connection with these Terms shall be subject to the exclusive jurisdiction of the courts located in the country in which the App is used.
+By using the App, you acknowledge that you have read, understood, and agreed to these Terms and Conditions.

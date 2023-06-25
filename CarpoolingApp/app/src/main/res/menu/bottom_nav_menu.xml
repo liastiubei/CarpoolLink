@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/my_rides_menu"
+        android:title="My rides"
+        android:icon="@drawable/ic_baseline_list_alt_24"/>
+    <item
+        android:id="@+id/new_ride_menu"
+        android:title="New ride"
+        android:icon="@drawable/ic_baseline_directions_car_24"/>
+    <item
+        android:id="@+id/search_menu"
+        android:title="Search"
+        android:icon="@drawable/ic_baseline_saved_search_24"/>
+    <item
+        android:id="@+id/messages_menu"
+        android:title="Messages"
+        android:icon="@drawable/ic_baseline_read_chat_24"/>
+    <item
+        android:id="@+id/profile_menu"
+        android:title="Profile"
+        android:icon="@drawable/ic_baseline_person_24"/>
+</menu>
